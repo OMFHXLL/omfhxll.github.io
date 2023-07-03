@@ -278,6 +278,7 @@ hr {
 .hero {
   width: 100%;
   height: calc(100vh - 5.92rem);
+  min-height: 476px;
   background-image: url(../img/hero-background.png);
   background-position: center;
   background-size: cover;
