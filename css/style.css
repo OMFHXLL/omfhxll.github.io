@@ -812,6 +812,14 @@ hr {
   border-radius: 0;
 }
 
+.request__form .form-agree {
+  margin-top: 1.4rem;
+}
+
+.request__form .checkbox {
+  top: -10px;
+}
+
 .request__form-ad {
   justify-content: flex-start;
   font-size: 1.285rem;
