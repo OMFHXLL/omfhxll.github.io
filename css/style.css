@@ -141,6 +141,7 @@ hr {
   z-index: 2;
   width: 100%;
   height: fit-content;
+  max-height: 20px;
   margin: 0;
   cursor: pointer;
 }
