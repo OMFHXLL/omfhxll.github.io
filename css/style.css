@@ -1468,12 +1468,22 @@ hr {
   }
   .online-control>p {
     max-width: 90%;
+    line-height: 24px;
+    font-size: 12px;
   }
 }
 
 @media (max-width:400px) {
   html {
-    font-size: 10px;
+    font-size: 12px;
+  }
+  .hero__content h1 {
+    font-size: 23px;
+    line-height: 30px;
+  }
+  .hero__content p {
+    font-size: 14px;
+    line-height: 22px;
   }
   .repair-types__box-block-list h3 {
     font-size: 15px;
