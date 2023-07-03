@@ -635,6 +635,8 @@ hr {
 }
 
 
+
+
 /* TYPES OF REPAIR */
 
 .repair-types {
@@ -1382,6 +1384,9 @@ hr {
     color: white;
     margin-bottom: 4.5rem;
     align-self: flex-start;
+  }
+  .online-control .form-agree .checkbox {
+    top: 14.2rem;
   }
   .online-control .form button{
     transform: translateY(50%);
